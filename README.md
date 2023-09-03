@@ -35,6 +35,7 @@ One file has been "processed", that one containing the Cleveland database.  All 
 > The dataset is available in the kaggale platform https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/code
 
 
+
 # Attribute Information
 Additional Information
 
